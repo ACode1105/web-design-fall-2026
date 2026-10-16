@@ -52,9 +52,7 @@ A learning quote from one of my dear parents
 ```
 
 **EXAMPLE!**->
-<button>
-COOLBUTTON
-</button>
+<button>COOLBUTTON</button>
 
 ## Profile Picture 
 
