@@ -1,0 +1,24 @@
+*
+body 
+{
+  background-color: rgb(246, 201, 212);
+}
+
+h1 {
+  color: rgb(70, 5, 45);
+  font-size: 40px;
+}
+li {
+  color: hsl(323, 60%, 68%);
+  margin-left: 20px;
+}
+
+a:link {
+  color: rgb(226, 67, 165);
+}
+
+h2 {
+  color: rgb(70, 5, 45);
+  font-size: 30px;
+}
+
