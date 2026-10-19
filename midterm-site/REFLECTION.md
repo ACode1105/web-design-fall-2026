@@ -1,1 +1,4 @@
-1.  What broke was all the links, images 
+1.  What broke when I moved all the files into subfolders was all the links, images and css. I found it by displaying in my internal browser in Visual Studio Code.
+2. I chose relative paths for "index.html", "Page1.html" and "Page2.html" due to it being easier and didnt understand why the root-relative paths weren't working. I chose root-relative paths for "Page3.html" and "Page4.html" because it was required
+3. One risk of displaying an image from someone else's server is if it breaks on their server it will break on mine 
+4. One thing I would structure differently from the start is changing the some of the html names to be lower case as well as naming the pages names to be what its displayed on the website (ie "Page1.html" to "BARISTA.html"). 
