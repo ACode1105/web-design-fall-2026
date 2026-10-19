@@ -58,8 +58,8 @@ A learning quote from one of my dear parents
 ## Profile Picture 
 
 I dont know if this counts as a profile picture but heres two of me as horse #bojacklyssa
-![me-as-horse](mehorseaura.jpg)
-![me-as-horse-happy](mehappyhorse.jpg) 
+![me-as-horse](/suny-website/immages/mehorseaura.jpg)
+![me-as-horse-happy](/suny-website/immages/mehappyhorse.jpg) 
 
 ---
 
@@ -67,6 +67,6 @@ You made it to the end! Have a seat!
 
 
 
-*crackle noises*<img src="image.png" width="100" height="100"> *crackle noises* 
+*crackle noises*<img src="image.png" width="100" height="100"/> *crackle noises* 
 
 ~~Pretend you hear the fire crackling for effect~~
