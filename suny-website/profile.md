@@ -58,8 +58,8 @@ A learning quote from one of my dear parents
 ## Profile Picture 
 
 I dont know if this counts as a profile picture but heres two of me as horse #bojacklyssa
-![me-as-horse](suny-website/immages/mehorseaura.jpg)
-![me-as-horse-happy](suny-website/immages/mehappyhorse.jpg) 
+![me-as-horse](mehorseaura.jpg)
+![me-as-horse-happy](mehappyhorse.jpg) 
 
 ---
 
